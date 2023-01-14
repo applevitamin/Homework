@@ -1,0 +1,15 @@
+C:\Users\Apple_Vitamin\Desktop\Homework\task01\bin\Debug\net6.0\task01.exe
+C:\Users\Apple_Vitamin\Desktop\Homework\task01\bin\Debug\net6.0\task01.deps.json
+C:\Users\Apple_Vitamin\Desktop\Homework\task01\bin\Debug\net6.0\task01.runtimeconfig.json
+C:\Users\Apple_Vitamin\Desktop\Homework\task01\bin\Debug\net6.0\task01.dll
+C:\Users\Apple_Vitamin\Desktop\Homework\task01\bin\Debug\net6.0\task01.pdb
+C:\Users\Apple_Vitamin\Desktop\Homework\task01\obj\Debug\net6.0\task01.csproj.AssemblyReference.cache
+C:\Users\Apple_Vitamin\Desktop\Homework\task01\obj\Debug\net6.0\task01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apple_Vitamin\Desktop\Homework\task01\obj\Debug\net6.0\task01.AssemblyInfoInputs.cache
+C:\Users\Apple_Vitamin\Desktop\Homework\task01\obj\Debug\net6.0\task01.AssemblyInfo.cs
+C:\Users\Apple_Vitamin\Desktop\Homework\task01\obj\Debug\net6.0\task01.csproj.CoreCompileInputs.cache
+C:\Users\Apple_Vitamin\Desktop\Homework\task01\obj\Debug\net6.0\task01.dll
+C:\Users\Apple_Vitamin\Desktop\Homework\task01\obj\Debug\net6.0\refint\task01.dll
+C:\Users\Apple_Vitamin\Desktop\Homework\task01\obj\Debug\net6.0\task01.pdb
+C:\Users\Apple_Vitamin\Desktop\Homework\task01\obj\Debug\net6.0\task01.genruntimeconfig.cache
+C:\Users\Apple_Vitamin\Desktop\Homework\task01\obj\Debug\net6.0\ref\task01.dll
