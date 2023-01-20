@@ -4,12 +4,9 @@
 // 8 -> 2, 4, 6, 8
 Console.Write("Введите число: ");
 int number = int.Parse(Console.ReadLine()!);
-int depo = 1;
+int depo = 2;
 while (depo <= number)
 {
-    if(depo%2 == 0)
-    {
         Console.Write($"{depo} | ");
-    }
-depo++;
+depo+=2; // только четные с шагом в 2
 }

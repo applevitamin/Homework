@@ -16,5 +16,4 @@ int max = numberA;
 if(max < numberB) max = numberB;
 if(max < numberC) max = numberC;
 
-
 Console.WriteLine($"Из введенных чисел ({numberA}, {numberB}, {numberC}) макисмальное {max}");
