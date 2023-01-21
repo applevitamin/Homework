@@ -13,3 +13,4 @@ while(num1 <= num)
     if( num1 != num) Console.Write(" | ");
     num1++;
 }
+// задача 23 конец
