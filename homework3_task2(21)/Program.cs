@@ -22,3 +22,4 @@ int z2 = int.Parse(Console.ReadLine()!); //Принимает число(коо�
 double result = Math.Sqrt(Math.Pow(x1 - x2, 2) + Math.Pow(y1 - y2, 2) + Math.Pow(z1 - z2, 2));
 result = Math.Round(result, 2, MidpointRounding.ToZero);
 Console.WriteLine(result);
+// задача 21 конец
