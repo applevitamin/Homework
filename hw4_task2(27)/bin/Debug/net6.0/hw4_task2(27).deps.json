@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "hw4_task2(27)/1.0.0": {
+        "runtime": {
+          "hw4_task2(27).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hw4_task2(27)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
