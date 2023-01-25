@@ -1,0 +1,15 @@
+C:\Users\Apple_Vitamin\Desktop\Homework\hw4_task3(29)\bin\Debug\net6.0\hw4_task3(29).exe
+C:\Users\Apple_Vitamin\Desktop\Homework\hw4_task3(29)\bin\Debug\net6.0\hw4_task3(29).deps.json
+C:\Users\Apple_Vitamin\Desktop\Homework\hw4_task3(29)\bin\Debug\net6.0\hw4_task3(29).runtimeconfig.json
+C:\Users\Apple_Vitamin\Desktop\Homework\hw4_task3(29)\bin\Debug\net6.0\hw4_task3(29).dll
+C:\Users\Apple_Vitamin\Desktop\Homework\hw4_task3(29)\bin\Debug\net6.0\hw4_task3(29).pdb
+C:\Users\Apple_Vitamin\Desktop\Homework\hw4_task3(29)\obj\Debug\net6.0\hw4_task3(29).csproj.AssemblyReference.cache
+C:\Users\Apple_Vitamin\Desktop\Homework\hw4_task3(29)\obj\Debug\net6.0\hw4_task3(29).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apple_Vitamin\Desktop\Homework\hw4_task3(29)\obj\Debug\net6.0\hw4_task3(29).AssemblyInfoInputs.cache
+C:\Users\Apple_Vitamin\Desktop\Homework\hw4_task3(29)\obj\Debug\net6.0\hw4_task3(29).AssemblyInfo.cs
+C:\Users\Apple_Vitamin\Desktop\Homework\hw4_task3(29)\obj\Debug\net6.0\hw4_task3(29).csproj.CoreCompileInputs.cache
+C:\Users\Apple_Vitamin\Desktop\Homework\hw4_task3(29)\obj\Debug\net6.0\hw4_task3(29).dll
+C:\Users\Apple_Vitamin\Desktop\Homework\hw4_task3(29)\obj\Debug\net6.0\refint\hw4_task3(29).dll
+C:\Users\Apple_Vitamin\Desktop\Homework\hw4_task3(29)\obj\Debug\net6.0\hw4_task3(29).pdb
+C:\Users\Apple_Vitamin\Desktop\Homework\hw4_task3(29)\obj\Debug\net6.0\hw4_task3(29).genruntimeconfig.cache
+C:\Users\Apple_Vitamin\Desktop\Homework\hw4_task3(29)\obj\Debug\net6.0\ref\hw4_task3(29).dll
