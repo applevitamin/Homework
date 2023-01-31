@@ -1,0 +1,15 @@
+C:\Users\Apple_Vitamin\Desktop\Homework\hw5_task36\obj\Debug\net6.0\hw5_task36.csproj.AssemblyReference.cache
+C:\Users\Apple_Vitamin\Desktop\Homework\hw5_task36\obj\Debug\net6.0\hw5_task36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apple_Vitamin\Desktop\Homework\hw5_task36\obj\Debug\net6.0\hw5_task36.AssemblyInfoInputs.cache
+C:\Users\Apple_Vitamin\Desktop\Homework\hw5_task36\obj\Debug\net6.0\hw5_task36.AssemblyInfo.cs
+C:\Users\Apple_Vitamin\Desktop\Homework\hw5_task36\obj\Debug\net6.0\hw5_task36.csproj.CoreCompileInputs.cache
+C:\Users\Apple_Vitamin\Desktop\Homework\hw5_task36\bin\Debug\net6.0\hw5_task36.exe
+C:\Users\Apple_Vitamin\Desktop\Homework\hw5_task36\bin\Debug\net6.0\hw5_task36.deps.json
+C:\Users\Apple_Vitamin\Desktop\Homework\hw5_task36\bin\Debug\net6.0\hw5_task36.runtimeconfig.json
+C:\Users\Apple_Vitamin\Desktop\Homework\hw5_task36\bin\Debug\net6.0\hw5_task36.dll
+C:\Users\Apple_Vitamin\Desktop\Homework\hw5_task36\bin\Debug\net6.0\hw5_task36.pdb
+C:\Users\Apple_Vitamin\Desktop\Homework\hw5_task36\obj\Debug\net6.0\hw5_task36.dll
+C:\Users\Apple_Vitamin\Desktop\Homework\hw5_task36\obj\Debug\net6.0\refint\hw5_task36.dll
+C:\Users\Apple_Vitamin\Desktop\Homework\hw5_task36\obj\Debug\net6.0\hw5_task36.pdb
+C:\Users\Apple_Vitamin\Desktop\Homework\hw5_task36\obj\Debug\net6.0\hw5_task36.genruntimeconfig.cache
+C:\Users\Apple_Vitamin\Desktop\Homework\hw5_task36\obj\Debug\net6.0\ref\hw5_task36.dll
