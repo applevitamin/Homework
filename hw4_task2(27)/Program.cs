@@ -11,7 +11,7 @@ void main()
 }
 int supernum(int num)
 {
-int sum = 0;
+    int sum = 0;
     for (int i = 0; num > 0; i++)
     {
         sum = num % 10 + sum;
