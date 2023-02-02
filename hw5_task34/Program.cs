@@ -4,6 +4,7 @@
 Console.Clear();
 Console.Write("Введите число эллементов массива:\t");
 int[] array = new int[int.Parse(Console.ReadLine()!)];
+newRand();
 
 bool Check(int n)
 {
@@ -14,21 +15,24 @@ bool Check(int n)
 
     return false;
 }
-
-Random rand = new Random();
-int count = 0;
-for (int i = 0; i < array.Length; i++)
+void newRand()
 {
-    array[i] = rand.Next(100, 1000);
-    Console.Write($"Число {array[i]} ");
-
-    if (Check(array[i]))
+    Random rand = new Random();
+    int count = 0;
+    for (int i = 0; i < array.Length; i++)
     {
-        Console.WriteLine($"Четное число!");
-        count++;
+        array[i] = rand.Next(100, 1000);
+        Console.Write($"Число {array[i]} ");
+
+        if (Check(array[i]))
+        {
+            Console.WriteLine($"Четное число!");
+            count++;
+        }
+
+        else Console.WriteLine($"Не четное число!");
     }
 
-    else Console.WriteLine($"Не четное число!");
-}
+    Console.WriteLine($"Четных чисел = {count}");
 
-Console.WriteLine($"Четных чисел = {count}");
+}
