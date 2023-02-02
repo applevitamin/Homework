@@ -8,13 +8,9 @@ newRand();
 
 bool Check(int n)
 {
-    if (n % 2 == 0)
-    {
-        return true;
-    }
-
-    return false;
+    return n % 2 == 0;
 }
+
 void newRand()
 {
     Random rand = new Random();
@@ -30,7 +26,7 @@ void newRand()
             count++;
         }
 
-        else Console.WriteLine($"Не четное число!");
+        else Console.WriteLine($"Нечетное число!");
     }
 
     Console.WriteLine($"Четных чисел = {count}");
