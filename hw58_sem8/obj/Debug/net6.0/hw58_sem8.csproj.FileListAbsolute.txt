@@ -1,0 +1,15 @@
+I:\!Wеб разработчик\!Занятия\Homework\hw58_sem8\bin\Debug\net6.0\hw58_sem8.exe
+I:\!Wеб разработчик\!Занятия\Homework\hw58_sem8\bin\Debug\net6.0\hw58_sem8.deps.json
+I:\!Wеб разработчик\!Занятия\Homework\hw58_sem8\bin\Debug\net6.0\hw58_sem8.runtimeconfig.json
+I:\!Wеб разработчик\!Занятия\Homework\hw58_sem8\bin\Debug\net6.0\hw58_sem8.dll
+I:\!Wеб разработчик\!Занятия\Homework\hw58_sem8\bin\Debug\net6.0\hw58_sem8.pdb
+I:\!Wеб разработчик\!Занятия\Homework\hw58_sem8\obj\Debug\net6.0\hw58_sem8.csproj.AssemblyReference.cache
+I:\!Wеб разработчик\!Занятия\Homework\hw58_sem8\obj\Debug\net6.0\hw58_sem8.GeneratedMSBuildEditorConfig.editorconfig
+I:\!Wеб разработчик\!Занятия\Homework\hw58_sem8\obj\Debug\net6.0\hw58_sem8.AssemblyInfoInputs.cache
+I:\!Wеб разработчик\!Занятия\Homework\hw58_sem8\obj\Debug\net6.0\hw58_sem8.AssemblyInfo.cs
+I:\!Wеб разработчик\!Занятия\Homework\hw58_sem8\obj\Debug\net6.0\hw58_sem8.csproj.CoreCompileInputs.cache
+I:\!Wеб разработчик\!Занятия\Homework\hw58_sem8\obj\Debug\net6.0\hw58_sem8.dll
+I:\!Wеб разработчик\!Занятия\Homework\hw58_sem8\obj\Debug\net6.0\refint\hw58_sem8.dll
+I:\!Wеб разработчик\!Занятия\Homework\hw58_sem8\obj\Debug\net6.0\hw58_sem8.pdb
+I:\!Wеб разработчик\!Занятия\Homework\hw58_sem8\obj\Debug\net6.0\hw58_sem8.genruntimeconfig.cache
+I:\!Wеб разработчик\!Занятия\Homework\hw58_sem8\obj\Debug\net6.0\ref\hw58_sem8.dll
