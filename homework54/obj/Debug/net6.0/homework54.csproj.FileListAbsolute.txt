@@ -1,0 +1,15 @@
+I:\!Wеб разработчик\!Занятия\Homework\homework54\bin\Debug\net6.0\homework54.exe
+I:\!Wеб разработчик\!Занятия\Homework\homework54\bin\Debug\net6.0\homework54.deps.json
+I:\!Wеб разработчик\!Занятия\Homework\homework54\bin\Debug\net6.0\homework54.runtimeconfig.json
+I:\!Wеб разработчик\!Занятия\Homework\homework54\bin\Debug\net6.0\homework54.dll
+I:\!Wеб разработчик\!Занятия\Homework\homework54\bin\Debug\net6.0\homework54.pdb
+I:\!Wеб разработчик\!Занятия\Homework\homework54\obj\Debug\net6.0\homework54.csproj.AssemblyReference.cache
+I:\!Wеб разработчик\!Занятия\Homework\homework54\obj\Debug\net6.0\homework54.GeneratedMSBuildEditorConfig.editorconfig
+I:\!Wеб разработчик\!Занятия\Homework\homework54\obj\Debug\net6.0\homework54.AssemblyInfoInputs.cache
+I:\!Wеб разработчик\!Занятия\Homework\homework54\obj\Debug\net6.0\homework54.AssemblyInfo.cs
+I:\!Wеб разработчик\!Занятия\Homework\homework54\obj\Debug\net6.0\homework54.csproj.CoreCompileInputs.cache
+I:\!Wеб разработчик\!Занятия\Homework\homework54\obj\Debug\net6.0\homework54.dll
+I:\!Wеб разработчик\!Занятия\Homework\homework54\obj\Debug\net6.0\refint\homework54.dll
+I:\!Wеб разработчик\!Занятия\Homework\homework54\obj\Debug\net6.0\homework54.pdb
+I:\!Wеб разработчик\!Занятия\Homework\homework54\obj\Debug\net6.0\homework54.genruntimeconfig.cache
+I:\!Wеб разработчик\!Занятия\Homework\homework54\obj\Debug\net6.0\ref\homework54.dll
