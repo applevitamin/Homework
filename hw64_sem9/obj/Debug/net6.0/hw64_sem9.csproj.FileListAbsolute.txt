@@ -1,0 +1,15 @@
+I:\!Wеб разработчик\!Занятия\Homework\hw64_sem9\bin\Debug\net6.0\hw64_sem9.exe
+I:\!Wеб разработчик\!Занятия\Homework\hw64_sem9\bin\Debug\net6.0\hw64_sem9.deps.json
+I:\!Wеб разработчик\!Занятия\Homework\hw64_sem9\bin\Debug\net6.0\hw64_sem9.runtimeconfig.json
+I:\!Wеб разработчик\!Занятия\Homework\hw64_sem9\bin\Debug\net6.0\hw64_sem9.dll
+I:\!Wеб разработчик\!Занятия\Homework\hw64_sem9\bin\Debug\net6.0\hw64_sem9.pdb
+I:\!Wеб разработчик\!Занятия\Homework\hw64_sem9\obj\Debug\net6.0\hw64_sem9.csproj.AssemblyReference.cache
+I:\!Wеб разработчик\!Занятия\Homework\hw64_sem9\obj\Debug\net6.0\hw64_sem9.GeneratedMSBuildEditorConfig.editorconfig
+I:\!Wеб разработчик\!Занятия\Homework\hw64_sem9\obj\Debug\net6.0\hw64_sem9.AssemblyInfoInputs.cache
+I:\!Wеб разработчик\!Занятия\Homework\hw64_sem9\obj\Debug\net6.0\hw64_sem9.AssemblyInfo.cs
+I:\!Wеб разработчик\!Занятия\Homework\hw64_sem9\obj\Debug\net6.0\hw64_sem9.csproj.CoreCompileInputs.cache
+I:\!Wеб разработчик\!Занятия\Homework\hw64_sem9\obj\Debug\net6.0\hw64_sem9.dll
+I:\!Wеб разработчик\!Занятия\Homework\hw64_sem9\obj\Debug\net6.0\refint\hw64_sem9.dll
+I:\!Wеб разработчик\!Занятия\Homework\hw64_sem9\obj\Debug\net6.0\hw64_sem9.pdb
+I:\!Wеб разработчик\!Занятия\Homework\hw64_sem9\obj\Debug\net6.0\hw64_sem9.genruntimeconfig.cache
+I:\!Wеб разработчик\!Занятия\Homework\hw64_sem9\obj\Debug\net6.0\ref\hw64_sem9.dll
